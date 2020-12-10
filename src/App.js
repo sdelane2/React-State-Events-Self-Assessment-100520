@@ -1,7 +1,8 @@
 import React from 'react';
+import BadDrake from './Components/BadDrake'
 import './App.css';
 function App() {
-  return <h1>You Can Do This!</h1>;
+  return <div><BadDrake /> </ div>
 }
 
 export default App;
